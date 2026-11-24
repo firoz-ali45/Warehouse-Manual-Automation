@@ -1,0 +1,61 @@
+﻿F G Stock VS Coverage ( Consumption Last 10 Days)								
+Item Name	SKU	Category	Warehouse Stock	Branch Stock	Total Stock	Daily Network Demand	Days Left	Priority (Auto)
+انجليش كيك شيكولاتة /English Cake Chocolate/RCP	sk-1227	FG	0	45	45	11.4	3.9	🔴 Critical
+(كراميل صوص قرفة (خلية / Caramel Sauce Cinnamon (Khaliya) / RCP	sk-19740	FG	0	15.65	15.65	3.691	4.2	🔴 Critical
+ميكس بايتس 3 قطعة/Mix bites 3 pcs /RCP	sk-19455	FG	70	249	319	52.1	6.1	🟡 Medium
+شوكولاتة حليب بالبندق/ Hazelnut Milk Chocolate /RCP	sk-19585	FG	0	85	85	13.9	6.1	🟡 Medium
+براونيز كوكيز ميكس 18 قطعة / Brownies cookies Mix 18 pieces/RCP	sk-19833	FG	0	30	30	4.8	6.3	🟡 Medium
+سميد بايتس ٣٢ قطعة / Smeed Bites 32 pcs /RCP	sk-19790	FG	10	48	58	8.5	6.8	🟡 Medium
+Large Khaliya Croissant (Recipe) / خلية كرواسون كبيرة	sk-19348	FG	205	301	506	72.9	6.9	🟡 Medium
+شعرية بايتس32 قطعة / Box Noodles bites/RCP	sk-19119	FG	18	47	65	9.3	7	🟡 Medium
+تشيز كيك البيكان/Cheese Cake Pecan/RCP	sk-19562	Fresh	0	228	228	32.1	7.1	🟡 Medium
+برتزل /Pretzel (Recipe)	sk-1217	FG	660	2302	2962	409.2	7.2	🟡 Medium
+دولسي ماجيك بار 18 قطعة / Magic Bar Dolce 18 pieces/RCP	sk-19830	FG	6	38	44	6	7.3	🟡 Medium
+كندر و بستاشيو بايتس 32قطعة / kinder & pistachio bites box/RCP	sk-19162	FG	21	43	64	8.6	7.4	🟡 Medium
+سندوتش ترافل تركى / Sandwich turkey truffle/RCP	sk-1382	Fresh	0	662	662	88	7.5	🟡 Medium
+سندوتش حلومي / Halloumi sandwich/RCP	sk-1384	Fresh	0	848	848	113.7	7.5	🟡 Medium
+حليب/Milk	sk-1140	rm_for_drinks	54.15	165.27	219.42	28.9911	7.6	🟡 Medium
+عصير البرتقال/Orange Juice /RCP	sk-1377	Fresh	0	98.51	98.51	12.9152	7.6	🟡 Medium
+تشيز كيك مدريد/Cheese Cake Madrid/RCP	sk-19460	Fresh	0	165	165	21.4	7.7	🟡 Medium
+كركدية / Karkadeh/RCP	sk-19188	FG	150	214.51	364.51	46.9945	7.8	🟡 Medium
+بيكان بايتس 3قطعة/Pecan bites 3 pcs /RCP	sk-19453	FG	35	203	238	30.4	7.8	🟡 Medium
+سندوتش تونة لايت / Tuna light sandwich/RCP	sk-1710	Fresh	0	431	431	54.8	7.9	🟡 Medium
+سندوتش تركى لايت/Turkey Lite Sandwich/ RCP	sk-1709	Fresh	0	360	360	43.6	8.3	🟡 Medium
+بيستاشيو بايتس 3قطعة /Pistachio bites 3 pcs/RCP	sk-19452	FG	62	177	239	28.9	8.3	🟡 Medium
+ميكس بايتس 18 قطعة / Mix Bites 18 pcs /RCP	sk-19804	FG	97	105	202	24.3	8.3	🟡 Medium
+سميد بايتس 18 قطعة / Smeed Bites 18 pcs /RCP	sk-19803	FG	75	93	168	19.9	8.4	🟡 Medium
+إثيوبي طبيعي قوجي هامبيلا قهوة محمصة/ Ethiopian Natural Guji Hambella Roasted Coffee 1 Kg	sk-19144	Coffee Beans	1	328.23	329.23	37.3259	8.8	🟡 Medium
+لافا كيك /Lava Cake / RCP	sk-19466	FG	201	274	475	52.4	9.1	🟢 Normal
+جرانولا بايتس 3 قطعة/ Granola Bites 3 pcs/RCP	sk-19597	FG	61	134	195	21.4	9.1	🟢 Normal
+سميد بايتس ٣ قطع / Smeed Bites 3 pcs /RCP	sk-19789	FG	238	383	621	63.5	9.8	🟢 Normal
+براوني الفول السوداني / Peanut Brownie/RCP	sk-19392	FG	80	85	165	16.6	9.9	🟢 Normal
+Mini Khaliya Croissant (Recipe) / خلية كرواسون صغيرة	sk-19786	FG	354	395	749	75.7	9.9	🟢 Normal
+قالب انجلش كيك ماربل /Mold English Cake Marble /RCP	sk-19447	FG	54	66	120	11.9	10.1	🟢 Normal
+تاكو 3قطعة /TACO 3 pcs/RCP	sk-19449	FG	35	102	137	13.3	10.3	🟢 Normal
+تاكو آيس كريم 18 قطعة / Taco ice cream 18 pieces/RCP	sk-19807	FG	0	17	17	1.6	10.6	🟢 Normal
+كندر بايتس 3 قطعة/Kinder bites 3 pcs /RCP	sk-19451	FG	336	445	781	71.8	10.9	🟢 Normal
+Dark Matilda / دارك ماتيلدا /RCP	sk-19588	Fresh	0	122	122	11.1	11	🟢 Normal
+شوكولاتة حليب كلاسيك / Classic Milk Chocolate /RCP	sk-19583	FG	29	98	127	11.4	11.1	🟢 Normal
+انجليش كيك فانليا /English Cake Vanllia /RCP	sk-1228	FG	36	65	101	8.6	11.7	🟢 Normal
+بارو توفي 3 قطعة/Barrow Toffee 3 pcs /RCP	sk-19454	FG	113	172	285	23.3	12.2	🟢 Normal
+زوري قهوة محمصة/ Zori Roasted coffee// 1 Kg	sk-19143	Coffee Beans	3.01	42.71	45.72	3.5224	13	🟢 Normal
+هامبيلا قهوة محمصة/hambela Rosated coffee/ 250gm	sk-19240	Coffee Beans	0	21	21	1.6	13.1	🟢 Normal
+كوكيز/Cookies /RCP	sk-1218	FG	1752	1179	2931	217.2	13.5	🟢 Normal
+دولسي / DOLCE/RCP	sk-19359	FG	330	207	537	37.3	14.4	🟢 Normal
+مينى كرواسون بيكان/Mini Croissant Pecan /RCP	sk-1223	FG	999	526	1525	100.8	15.1	🟢 Normal
+براونيز كوكيز/ Brownies cookies/RCP	sk-19383	FG	126	155	281	18.5	15.2	🟢 Normal
+ميني كرواسون لوز / Mini Croissant Almond/RCP	sk-1191	FG	1179	601	1780	116.3	15.3	🟢 Normal
+شعرية بايتس 16قطعة/Noodles Bites 16 pcs /RCP	sk-19464	FG	30	37	67	4.3	15.6	🟢 Normal
+دولسي ماجيك بار / Magic Bar Dolce/RCP	sk-19384	FG	344	165	509	31.7	16.1	🟢 Normal
+فيوتين /Futin /RCP	sk-19465	FG	0	5.79	5.79	0.36	16.1	🟢 Normal
+شوكولاتة داكنة ملح البحر/Sea Salt Dark Chocolate /RCP	sk-19584	FG	120	151	271	16.1	16.8	🟢 Normal
+انجليش كيك ماربل /English Cake Marble/RCP	sk-1303	FG	475	233	708	40.7	17.4	🟢 Normal
+باروتوفى 32 قطعة /Barrow Toffee Family Box/RCP	sk-1684	FG	6	19	25	1.4	17.9	🟢 Normal
+شعرية بايتس 3قطعة/Noodles Bites 3 pcs /RCP	sk-19450	FG	348	161	509	28.2	18	🟢 Normal
+باروتوفى 18 قطعة /Barrow Toffee Box 18 pcs /RCP	sk-19806	FG	15	35	50	2.7	18.5	🟢 Normal
+كوب لافا/Lava Cup/RCP	sk-1413	FG	545	299	844	45	18.8	🟢 Normal
+الريفيجو قهوة محمصة / El Refuigo Roasted coffee/1 Kg	sk-19141	Coffee Beans	0	5.95	5.95	0.315	18.9	🟢 Normal
+اوراجا قهوة محمصة/Uraga Rosated coffee / 250gm	sk-19239	Coffee Beans	0	30	30	1	30	🟢 Normal
+قالب انجلش كيك فانيلا/Mold English Cake Vanilla /RCP	sk-19446	FG	7	19	26	0.7	37.1	🟢 Normal
+الريفيجو قهوة محمصة/El Refuigo Roasted Coffee/ 250gm	sk-19236	Coffee Beans	0	21	21	0.4	52.5	🟢 Normal
+جيلشا قهوة محمصة/Gelcha Roasted Coffee /250gm	sk-19303	Coffee Beans	0	28	28	0.4	70	🟢 Normal

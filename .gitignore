@@ -1,0 +1,7 @@
+data/raw_pages/
+data/append_*.py
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/

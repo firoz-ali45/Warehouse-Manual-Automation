@@ -1,0 +1,356 @@
+{
+  "sk-1227": {
+    "warehouse_stock": 0,
+    "branch_stock": 45,
+    "total_stock": 45,
+    "daily_network_demand": 11.2
+  },
+  "sk-19740": {
+    "warehouse_stock": 0,
+    "branch_stock": 15.648,
+    "total_stock": 15.648,
+    "daily_network_demand": 3.5215
+  },
+  "sk-19455": {
+    "warehouse_stock": 70,
+    "branch_stock": 249,
+    "total_stock": 319,
+    "daily_network_demand": 48.3
+  },
+  "sk-19585": {
+    "warehouse_stock": 0,
+    "branch_stock": 85,
+    "total_stock": 85,
+    "daily_network_demand": 13.2
+  },
+  "sk-19833": {
+    "warehouse_stock": 0,
+    "branch_stock": 30,
+    "total_stock": 30,
+    "daily_network_demand": 4.5
+  },
+  "sk-19790": {
+    "warehouse_stock": 10,
+    "branch_stock": 48,
+    "total_stock": 58,
+    "daily_network_demand": 8.4
+  },
+  "sk-19348": {
+    "warehouse_stock": 205,
+    "branch_stock": 299,
+    "total_stock": 504,
+    "daily_network_demand": 69.9
+  },
+  "sk-19119": {
+    "warehouse_stock": 18,
+    "branch_stock": 47,
+    "total_stock": 65,
+    "daily_network_demand": 8.9
+  },
+  "sk-19562": {
+    "warehouse_stock": 0,
+    "branch_stock": 228,
+    "total_stock": 228,
+    "daily_network_demand": 29.8
+  },
+  "sk-1217": {
+    "warehouse_stock": 660,
+    "branch_stock": 2298,
+    "total_stock": 2958,
+    "daily_network_demand": 368.4
+  },
+  "sk-19830": {
+    "warehouse_stock": 6,
+    "branch_stock": 38,
+    "total_stock": 44,
+    "daily_network_demand": 5.8
+  },
+  "sk-19162": {
+    "warehouse_stock": 21,
+    "branch_stock": 42,
+    "total_stock": 63,
+    "daily_network_demand": 8.6
+  },
+  "sk-1382": {
+    "warehouse_stock": 0,
+    "branch_stock": 657,
+    "total_stock": 657,
+    "daily_network_demand": 85.6
+  },
+  "sk-1384": {
+    "warehouse_stock": 0,
+    "branch_stock": 844,
+    "total_stock": 844,
+    "daily_network_demand": 110.1
+  },
+  "sk-1140": {
+    "warehouse_stock": 54.15,
+    "branch_stock": 164.24954,
+    "total_stock": 218.39954,
+    "daily_network_demand": 27.0623
+  },
+  "sk-1377": {
+    "warehouse_stock": 0,
+    "branch_stock": 97.405,
+    "total_stock": 97.405,
+    "daily_network_demand": 12.5039
+  },
+  "sk-19460": {
+    "warehouse_stock": 0,
+    "branch_stock": 165,
+    "total_stock": 165,
+    "daily_network_demand": 20.1
+  },
+  "sk-19188": {
+    "warehouse_stock": 150,
+    "branch_stock": 214.39154,
+    "total_stock": 364.39154,
+    "daily_network_demand": 44.5764
+  },
+  "sk-19453": {
+    "warehouse_stock": 35,
+    "branch_stock": 200,
+    "total_stock": 235,
+    "daily_network_demand": 27.2
+  },
+  "sk-1710": {
+    "warehouse_stock": 0,
+    "branch_stock": 425,
+    "total_stock": 425,
+    "daily_network_demand": 52.6
+  },
+  "sk-1709": {
+    "warehouse_stock": 0,
+    "branch_stock": 353,
+    "total_stock": 353,
+    "daily_network_demand": 42.2
+  },
+  "sk-19452": {
+    "warehouse_stock": 62,
+    "branch_stock": 178,
+    "total_stock": 240,
+    "daily_network_demand": 26.7
+  },
+  "sk-19804": {
+    "warehouse_stock": 97,
+    "branch_stock": 105,
+    "total_stock": 202,
+    "daily_network_demand": 22.8
+  },
+  "sk-19803": {
+    "warehouse_stock": 76,
+    "branch_stock": 92,
+    "total_stock": 168,
+    "daily_network_demand": 19.0
+  },
+  "sk-19144": {
+    "warehouse_stock": 1,
+    "branch_stock": 327.64887,
+    "total_stock": 328.64887,
+    "daily_network_demand": 35.0754
+  },
+  "sk-19466": {
+    "warehouse_stock": 201,
+    "branch_stock": 274,
+    "total_stock": 475,
+    "daily_network_demand": 48.4
+  },
+  "sk-19597": {
+    "warehouse_stock": 61,
+    "branch_stock": 132,
+    "total_stock": 193,
+    "daily_network_demand": 21.0
+  },
+  "sk-19789": {
+    "warehouse_stock": 238,
+    "branch_stock": 383,
+    "total_stock": 621,
+    "daily_network_demand": 57.2
+  },
+  "sk-19392": {
+    "warehouse_stock": 80,
+    "branch_stock": 85,
+    "total_stock": 165,
+    "daily_network_demand": 16.2
+  },
+  "sk-19786": {
+    "warehouse_stock": 354,
+    "branch_stock": 395,
+    "total_stock": 749,
+    "daily_network_demand": 69.6
+  },
+  "sk-19447": {
+    "warehouse_stock": 54,
+    "branch_stock": 64,
+    "total_stock": 118,
+    "daily_network_demand": 11.5
+  },
+  "sk-19449": {
+    "warehouse_stock": 35,
+    "branch_stock": 102,
+    "total_stock": 137,
+    "daily_network_demand": 12.2
+  },
+  "sk-19807": {
+    "warehouse_stock": 0,
+    "branch_stock": 17,
+    "total_stock": 17,
+    "daily_network_demand": 1.5
+  },
+  "sk-19451": {
+    "warehouse_stock": 336,
+    "branch_stock": 445,
+    "total_stock": 781,
+    "daily_network_demand": 64.9
+  },
+  "sk-19588": {
+    "warehouse_stock": 0,
+    "branch_stock": 122,
+    "total_stock": 122,
+    "daily_network_demand": 10.4
+  },
+  "sk-19583": {
+    "warehouse_stock": 29,
+    "branch_stock": 98,
+    "total_stock": 127,
+    "daily_network_demand": 10.7
+  },
+  "sk-1228": {
+    "warehouse_stock": 36,
+    "branch_stock": 65,
+    "total_stock": 101,
+    "daily_network_demand": 8.4
+  },
+  "sk-19454": {
+    "warehouse_stock": 113,
+    "branch_stock": 172,
+    "total_stock": 285,
+    "daily_network_demand": 20.7
+  },
+  "sk-19143": {
+    "warehouse_stock": 3.01,
+    "branch_stock": 42.594,
+    "total_stock": 45.604,
+    "daily_network_demand": 3.2951
+  },
+  "sk-19240": {
+    "warehouse_stock": 0,
+    "branch_stock": 21,
+    "total_stock": 21,
+    "daily_network_demand": 1.5
+  },
+  "sk-1218": {
+    "warehouse_stock": 1752,
+    "branch_stock": 1178,
+    "total_stock": 2930,
+    "daily_network_demand": 201.3
+  },
+  "sk-19359": {
+    "warehouse_stock": 330,
+    "branch_stock": 206,
+    "total_stock": 536,
+    "daily_network_demand": 33.5
+  },
+  "sk-1223": {
+    "warehouse_stock": 999,
+    "branch_stock": 526,
+    "total_stock": 1525,
+    "daily_network_demand": 97.1
+  },
+  "sk-19383": {
+    "warehouse_stock": 126,
+    "branch_stock": 154,
+    "total_stock": 280,
+    "daily_network_demand": 17.0
+  },
+  "sk-1191": {
+    "warehouse_stock": 1179,
+    "branch_stock": 600,
+    "total_stock": 1779,
+    "daily_network_demand": 111.9
+  },
+  "sk-19464": {
+    "warehouse_stock": 30,
+    "branch_stock": 37,
+    "total_stock": 67,
+    "daily_network_demand": 4.2
+  },
+  "sk-19384": {
+    "warehouse_stock": 344,
+    "branch_stock": 165,
+    "total_stock": 509,
+    "daily_network_demand": 28.9
+  },
+  "sk-19465": {
+    "warehouse_stock": 0,
+    "branch_stock": 5.7807,
+    "total_stock": 5.7807,
+    "daily_network_demand": 0.3312
+  },
+  "sk-19584": {
+    "warehouse_stock": 120,
+    "branch_stock": 151,
+    "total_stock": 271,
+    "daily_network_demand": 15.1
+  },
+  "sk-1303": {
+    "warehouse_stock": 475,
+    "branch_stock": 232,
+    "total_stock": 707,
+    "daily_network_demand": 37.0
+  },
+  "sk-1684": {
+    "warehouse_stock": 7,
+    "branch_stock": 19,
+    "total_stock": 26,
+    "daily_network_demand": 1.4
+  },
+  "sk-19450": {
+    "warehouse_stock": 348,
+    "branch_stock": 161,
+    "total_stock": 509,
+    "daily_network_demand": 25.7
+  },
+  "sk-19806": {
+    "warehouse_stock": 15,
+    "branch_stock": 35,
+    "total_stock": 50,
+    "daily_network_demand": 2.5
+  },
+  "sk-1413": {
+    "warehouse_stock": 545,
+    "branch_stock": 298,
+    "total_stock": 843,
+    "daily_network_demand": 41.4
+  },
+  "sk-19141": {
+    "warehouse_stock": 0,
+    "branch_stock": 5.948,
+    "total_stock": 5.948,
+    "daily_network_demand": 0.3087
+  },
+  "sk-19239": {
+    "warehouse_stock": 0,
+    "branch_stock": 30,
+    "total_stock": 30,
+    "daily_network_demand": 0.9
+  },
+  "sk-19446": {
+    "warehouse_stock": 7,
+    "branch_stock": 19,
+    "total_stock": 26,
+    "daily_network_demand": 0.7
+  },
+  "sk-19236": {
+    "warehouse_stock": 0,
+    "branch_stock": 21,
+    "total_stock": 21,
+    "daily_network_demand": 0.4
+  },
+  "sk-19303": {
+    "warehouse_stock": 0,
+    "branch_stock": 26,
+    "total_stock": 26,
+    "daily_network_demand": 0.6
+  }
+}
